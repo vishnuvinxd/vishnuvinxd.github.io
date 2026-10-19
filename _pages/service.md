@@ -7,11 +7,9 @@ redirect_from:
 ---
 Departmental academic service.
 
-<!-- ### Reviewing
+### Reviewing
 
-**Conferences**: NeurIPS, ICML, ICLR, AISTATS  
-
-**Journals**: JMLR, JOTA, Math. Prog.   -->
+**Conferences & Workshops**: AISTATS 2027, NeurIPS InfPriv 2026
 
 ### Department Service at IIT Madras
 
