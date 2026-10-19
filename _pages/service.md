@@ -9,7 +9,9 @@ Departmental academic service.
 
 ### Reviewing
 
-**Conferences & Workshops**: AISTATS 2027, NeurIPS InfPriv 2026
+**Conferences**: AISTATS 2027
+
+**Workshops**: NeurIPS InfPriv 2026
 
 ### Department Service at IIT Madras
 
